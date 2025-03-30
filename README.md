@@ -31,6 +31,21 @@ https://github.com/bhanu-sree1422/Zomato-Analysis/blob/main/zomato%20data.xlsx
 
   ## process
   **************************************
+  #### Data Cleaning and Preprocessing
+  
+Handling missing values: Identify and fill or remove missing data.
+
+Data transformation: Convert data into a usable format, such as normalizing text, converting ratings to a uniform scale, and standardizing time formats.
+
+Removing duplicates: Ensure that the dataset doesn't contain repeated records.
+
+Outlier detection: Identify and remove any outliers that may skew analysis, such as abnormally high or low ratings or prices.
+
+#### Insights and Reporting
+
+Key findings: Identify actionable insights, such as which factors most influence restaurant success, popular cuisines in certain areas, or recommendations for improving restaurant visibility.
+
+Dashboard creation: Use tools like Tableau, Power BI, or Python libraries (Matplotlib, Seaborn) to create visual dashboards for reporting results to stakeholders.
   
 
 
